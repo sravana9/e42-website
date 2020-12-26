@@ -1,5 +1,6 @@
 ## MADHU SRAVANA VALLI
 [This is my website](https://sravana9.github.io/e42-website/)
+![git](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-GIT.png)  
 ## Steps to follow to create a website and cofigure to github 
 - **git config --global user.name "Your name"**  
 - **git config -- global user.email "Your email address"**
@@ -21,4 +22,5 @@
 **Go to [github](github.com/new)**
  - _create_ a repository with any name.
  - Then go to _settings_, in that move on to _github pages_, then change the option from none to **main** and **save**.
- - Again come back to the _github pages_, there you could observe a [**link**]((https://sravana9.github.io/e42-website/)) that has been published.   
+ - Again come back to the _github pages_, there you could observe a **link** that has been published.   
+  
