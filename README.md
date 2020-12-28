@@ -25,5 +25,6 @@
  - _create_ a repository with any name.
  - Then go to _settings_, in that move on to _github pages_, then change the option from none to **main** and **save**.
  - Again come back to the _github pages_, there you could observe a **link** that has been published.  
- ![git_image](git_image.png)  
+ ![git_image](image1.png)  
+   
   
