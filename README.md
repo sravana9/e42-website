@@ -1,7 +1,7 @@
 ## MADHU SRAVANA VALLI
 [This is my website](https://sravana9.github.io/e42-website/)
 ![git](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-GIT.png)  
-## Steps to follow to create a website and cofigure to github   
+## Steps to create a website and cofigure to github   
 
 - open Git Bash
 - change directory to the folder you created enahnce42  
@@ -13,12 +13,12 @@
 - do git init
 - check with git status
 - create file README.md with touch command 
- Once the configuration is done, _go to terminal_, in the dropdown change the option from powershell to **bash** and close it
- Again open the terminal, u could observe **bash**.
+ Once the configuration is done, _go to terminal_, in the dropdown change the option from powershell to **bash** and close the terminal.  
+ Again open the terminal, u could observe **bash**.  
 **Commands used in the terminal**
  - git status
  - git add README.md (if there are any changes made to the file)
- - git commit -m "general text" (so that changes could be noticed with the message") 
+ - git commit -m "general text" (to commit the changes)   
  - git log
  - git push   
 **Go to [github](github.com/new)**
