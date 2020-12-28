@@ -1,11 +1,13 @@
 ## MADHU SRAVANA VALLI
 [This is my website](https://sravana9.github.io/e42-website/)
 ![git](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-GIT.png)  
-## Steps to follow to create a website and cofigure to github 
-- **git config --global user.name "Your name"**  
-- **git config -- global user.email "Your email address"**
+## Steps to follow to create a website and cofigure to github   
+
 - open Git Bash
-- change directory to the folder you created enahnce42
+- change directory to the folder you created enahnce42  
+  _configure to github using:_  
+- **git config --global user.name "Your name"**  
+- **git config -- global user.email "Your email address"**  
 - create a directory e42-website using mkdir
 - change directory to e42-website
 - do git init
